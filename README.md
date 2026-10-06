@@ -4,7 +4,7 @@
 
 ## From design, to data, to *agents*.
 
-I’m Azmir Wazed Murad, an analytics engineer in Dhaka, Bangladesh. I translate: someone asks a question, and I turn it into a number they can trust, designed so it is understood at a glance.
+I’m Azmir Murad, an analytics engineer in Dhaka, Bangladesh. I translate: someone asks a question, and I turn it into a number they can trust, designed so it is understood at a glance.
 
 I work the whole stack: the report, Power BI, the semantic model and Microsoft Fabric underneath. Now there is a new layer on top: I write the contract, an agent writes the code, and a test proves every number before anyone sees it.
 
