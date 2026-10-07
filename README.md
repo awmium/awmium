@@ -17,4 +17,6 @@ data-agents/     Fabric data agents that answer in plain language
 agent-kit/       skills and small tools for working with Claude Code
 ```
 
+`❯ shipped` [ClaudeStats](https://marketplace.visualstudio.com/items?itemName=awmium.claude-stats-statusbar) on the VS Code Marketplace · [`npx awmium`](https://www.npmjs.com/package/awmium) on npm
+
 [awmium.com](https://awmium.com) · [portfolio](https://awmium.com/portfolio) · [blog](https://awmium.com/blog) · [agent-kit](https://awmium.com/agent-kit) · [linkedin](https://www.linkedin.com/in/awmium/) · [hello@awmium.com](mailto:hello@awmium.com)
