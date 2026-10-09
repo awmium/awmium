@@ -6,7 +6,7 @@
 
 I’m Azmir Murad, an analytics engineer in Dhaka, Bangladesh. I translate: someone asks a question, and I turn it into a number they can trust, designed so it is understood at a glance.
 
-I work the whole stack on Microsoft Fabric: lakehouses and warehouses on OneLake, star-schema semantic models, and the Power BI reports and Fabric apps on top. Now there is a new layer on top: I write the contract, an agent writes the code, and a test proves every number before anyone sees it.
+I work the whole stack on Microsoft Fabric: lakehouses and warehouses on OneLake, star-schema semantic models, and the Power BI reports and Fabric apps built on them. Now there is a new layer on top: I write the contract, an agent writes the code, and a test proves every number before anyone sees it.
 
 ```text
 ❯ ls ~/now
